@@ -1,0 +1,5 @@
+ROTAS:
+
+Inserir pedido: /pedido
+Listagem de pedidos: /pedidos
+Obter número total de pedidos: /totalpedidos
